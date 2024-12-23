@@ -1,4 +1,4 @@
-## Masterclass: SQL and Database Queries
+## SQL and Database Queries
 
 ### Writing SQL Queries to Retrieve, Insert, Update, and Delete Data
 

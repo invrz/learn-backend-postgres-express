@@ -1,4 +1,4 @@
-## Masterclass: RESTful APIs in Detail
+## RESTful APIs in Detail
 
 ### Setting up Postman on Your Local Machine
 

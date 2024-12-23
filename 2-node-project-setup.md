@@ -1,4 +1,4 @@
-## Masterclass: Introduction to Node.js
+## Setup Your Node.js Environment
 
 ### What is Node.js and Why Use It for Backend Development?
 

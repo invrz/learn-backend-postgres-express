@@ -1,8 +1,4 @@
-Great! Let's proceed with the next module: "Building RESTful APIs with Express.js." This module will provide a foundational understanding of Express.js and guide developers in setting up the backend for the basic chat app.
-
----
-
-## Masterclass: Building RESTful APIs with Express.js
+## Building RESTful APIs with Express.js
 
 ### Introduction to Express.js and Its Features
 

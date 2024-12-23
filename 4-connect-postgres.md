@@ -1,4 +1,4 @@
-## Masterclass: Using PostgreSQL as a Database
+## Using PostgreSQL as a Database
 
 ### Introduction to Relational Databases and PostgreSQL
 

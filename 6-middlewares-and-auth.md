@@ -1,4 +1,4 @@
-## Masterclass: Working with Middleware and Authentication
+## Working with Middleware and Authentication
 
 ### Understanding Middleware in Express.js
 

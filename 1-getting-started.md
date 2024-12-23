@@ -1,4 +1,4 @@
-## Masterclass: Introduction to Backend Development
+## Introduction to Backend Development
 
 ### Understanding the Backend's Role in Web Applications
 
